@@ -1,2 +1,4 @@
-# helloworld
-first try
+# Hello, World!
+
+It's my first repository on GitHub
+
